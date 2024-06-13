@@ -1,4 +1,5 @@
 [project]
+
 name = "open-radar-data"
 description = """Provides utility functions for accessing data repository for openradar examples/notebooks"""
 requires-python = ">=3.9"
